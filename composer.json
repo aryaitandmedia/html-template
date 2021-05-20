@@ -1,0 +1,17 @@
+{
+    "name": "aryaitandmedia/html-template",
+    "description": "A simple html/css admin template for learning purpose",
+    "keywords": ["php", "Custom Framework", "Php Rapid Couse", "project template"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Amit Arya",
+            "email": "aryaitandmedia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    "php": ">=5.3.0"
+     },
+
+}
