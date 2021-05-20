@@ -3,6 +3,8 @@
     "description": "A simple html/css admin template for learning purpose",
     "keywords": ["php", "Custom Framework", "Php Rapid Couse", "project template"],
     "type": "library",
+    "license": "GNU General Public License",
+    "homepage": "https://github.com/aryaitandmedia/html-template",
     "authors": [
         {
             "name": "Amit Arya",
@@ -11,7 +13,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-    "php": ">=5.3.0"
-     }
-
+        "php": "7.0.*|7.1.*|7.2.*|7.3.*|7.4.*|8.0.*",
+     },
 }
