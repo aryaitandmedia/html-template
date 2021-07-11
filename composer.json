@@ -2,7 +2,7 @@
     "name": "aryaitandmedia/html-template",
     "description": "A simple html/css admin template for learning purpose",
     "type": "library",
-    "keywords": ["Admin Template","Html/Css Admin Template","Php/Mysq Rapid Course"],
+    "keywords": ["Admin Template"],
     "homepage": "https://aryaitandmedia.com",
     "license": "GPL-3.0-or-later",
     "authors": [
